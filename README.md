@@ -10,7 +10,7 @@ In addition to the core experiment evaluation, the project includes exploratory 
 
 ---
 
-## Tools & Technologies
+## Tools
 - Python (pandas, numpy, scipy, matplotlib, seaborn)
 - SQL
 - Tableau
